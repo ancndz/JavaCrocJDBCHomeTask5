@@ -1,2 +1,11 @@
 # Project exclude paths
 /target/
+
+# Database local files
+/db/
+
+# Database test local files
+/db_test/
+
+# Log files
+derby.log
